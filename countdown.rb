@@ -7,4 +7,5 @@ def countdown (num_of_sec)
     "HAPPY NEW YEAR!"
   end
 end
+countdown (num_of_sec)
 
