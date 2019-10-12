@@ -1,4 +1,6 @@
-#write your code here
+num_of_sec = 10 
 
 def countdown
+  while num_of_sec > 0 
+    puts 
 end
