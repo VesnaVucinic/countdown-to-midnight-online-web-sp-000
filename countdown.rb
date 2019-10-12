@@ -6,7 +6,7 @@ def countdown (num_of_sec)
     slip 1 
     num_of_sec -= 1 
   end
-  
+  return "HAPPY NEW YEAR!"
 end
 countdown (num_of_sec)
 
