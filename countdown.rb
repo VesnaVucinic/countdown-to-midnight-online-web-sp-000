@@ -11,6 +11,8 @@ countdown (num_of_sec)
 
 num_of_sec = 10 
 
+sleep 5
+
 def countdown_with_sleep (num_of_sec)
   while num_of_sec > 0 
     puts "#{num_of_sec} SECOND(S)!"
